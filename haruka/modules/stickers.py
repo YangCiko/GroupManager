@@ -48,7 +48,7 @@ def kang(bot: Bot, update: Update, args: List[str]):
     msg = update.effective_message
     user = update.effective_user
     packnum = 0
-    packname = "c" + str(user.id) + "_by_"+bot.username
+    packname = "c" + str(user.id)
     packname_found = 0
     max_stickers = 120
     while packname_found == 0:
