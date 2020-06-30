@@ -23,7 +23,7 @@ from haruka.modules.connection import connected
 PM_START = """Hello {}, my name is {}!
 -I'm a Group Managing Robot Exclusively Made for [Telegram Links](https://t.me/Share_Your_TelegramLinks)
 
-To find out full potential features check out Help button, I'm maintained by [KeralaWarriors ](https://t.me/KeralaWarriors).
+To find out full potential features check out Help button, I'm maintained by [this person](https://t.me/Malik_sha).
 
  Made with ❤️ by @Telegram
 """
