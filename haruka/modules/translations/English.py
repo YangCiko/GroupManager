@@ -212,9 +212,21 @@ or feature requests you might have :)
 If you enjoying using me and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """,
 
-    "send-help": """All the below features are only for [Telegram Link](https://t.me/Share_Your_TelegramLinks) Group Admins
+    "send-help": """ 
+Here are the list of helpful commands:
+ - /start: start the bot
+ - /help: PM's you this message.
+ - /help <module name>: PM's you info about that module.
+ - /settings:
+   - in PM: will send you your settings for all supported modules.
+   - in a group: will redirect you to pm, with all that chat's settings.
 
-Made with ❤️ by @Telegram
+If you have any bugs or questions on how to use me, head to @Malik_sha .
+
+
+All commands can either be used with / . or !.
+
+And the following:
    """,
 
     "send-group-settings": """Hi there! There are quite a few settings for *{}* - go ahead and pick what
