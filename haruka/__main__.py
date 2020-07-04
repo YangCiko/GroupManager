@@ -21,11 +21,14 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
--I'm a Group Managing Robot Exclusively Made for [Telegram Links](https://t.me/Share_Your_TelegramLinks)
+-I'm a group management bot and here to help managing your groups.
 
-To find out full potential features check out Help button, I'm maintained by [this person](https://t.me/Malik_sha).
 
- Made with ❤️ by @Telegram
+To find out full potential features check out Help button, I'm maintained by [Noob](tg://user?id={}).
+
+ Made with ❤️ by @Malik_sha
+ 
+ 
 """
 
 
